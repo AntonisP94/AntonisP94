@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonisP94
 - 👀 I’m interested in Mathematics, Physics, Data Science and coding
-- 🌱 I’m currently learning Various programming languages such as Python
+- 🌱 I’m currently learning Various programming languages such as Python, Java etc
 - 📫 How to reach me: @antouan.p (IG)
 
 <!---
